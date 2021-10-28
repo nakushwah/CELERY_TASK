@@ -22,7 +22,7 @@
    ```
     pip intsall -r requirments.txt
    ```   
-* ######configuration :- 
+* ###### configuration :- 
   install celery
   ```
       pip install celery
@@ -41,7 +41,7 @@
   API :- \ 
 * ```
       Method : POST
-      localhost:8000/register/
+      API : localhost:8000/register/
       payload:
    {
          "username": "narendra2",
