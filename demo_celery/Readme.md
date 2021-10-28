@@ -3,7 +3,7 @@
   
 * ###### Repository :-
   ```
-
+  $ git clone https://github.com/nakushwah/CELERY_TASK.git
   ```
   get the project ("demo_celery") directory install some requirements , and some configuration given below 
   and migrate the data :-
